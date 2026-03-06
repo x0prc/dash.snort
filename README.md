@@ -1,6 +1,8 @@
 # dash.snort
 Modular web dashboard for analysing Snort IDS alerts.
 
+## [Additional Documentation](https://x0prc.github.io/notes/Notes/Published-Documentation/dash.snort)
+
 ## Features
 
 - Reads Snort alerts from a MySQL snort database.
